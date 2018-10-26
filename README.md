@@ -1,2 +1,3 @@
 # AniationOne# chenFan
 # someCells
+# NSStringCategary
